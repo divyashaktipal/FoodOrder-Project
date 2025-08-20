@@ -12,11 +12,10 @@ export default function Restaurant() {
         <div className="card-body d-flex flex-column">
           <h5 className="card-title">Dominos Pizza</h5>
           <p className="rest_address">123 Street, Place, City - 0000, State</p>
-
+          {/* reviews and rating */}
           <div className="rating-outer">
-            <div className="rating-inner">
-              <spna className="no_of_reviews">140 reviews</spna>
-            </div>
+            <div className="rating-inner"></div>
+              <span className="no_of_reviews">(140 reviews)</span>
           </div>
         </div>
       </div>
