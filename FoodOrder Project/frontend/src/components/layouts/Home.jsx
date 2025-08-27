@@ -21,6 +21,8 @@ export default function Home() {
           <Restaurant/>
           <Restaurant/>
           <Restaurant/>
+          <Restaurant/>
+          <Restaurant/>
         </div>
     </section>
   </>
